@@ -1,4 +1,4 @@
-![Imagem do Kirby, um dos mascostes da nintendo](https://imagizer.imageshack.com/img923/3278/TjMreT.png)
+![Imagem do Kirby, um dos mascostes da nintendo](https://imagizer.imageshack.com/img922/8391/oba25D.png)
 ###  Olá, eu sou a Amora!
 
 
