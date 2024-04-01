@@ -6,6 +6,9 @@
 • 👩🏻‍💻 Entusiasta do desenvolvimento Front-end e Mobile<b><p>
 ![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)<br>
 
+### ⚔️Tech Stack
+
+https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 
 <!--
 **amoralih/amoralih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
