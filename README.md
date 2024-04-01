@@ -6,7 +6,7 @@
 • 👩🏻‍💻 Entusiasta do desenvolvimento Front-end e Mobile<b><p>
 ![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)<br>
 
-![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![snake gif](https://github.com/amoralih/amoralih/blob/output/github-contribution-grid-snake.svg)
 
