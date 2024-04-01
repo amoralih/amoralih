@@ -4,8 +4,7 @@
 • 💻 QA Engineer na [Pagar.me](https://pagar.me)<br>
 • 🎙 Criadora de conteúdo na [Twitch](http://www.twitch.tv/amoralih)<br>
 • 👩🏻‍💻 Entusiasta do desenvolvimento Front-end e Mobile<b>
-
-![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
+![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)<br>
 
 
 <!--
