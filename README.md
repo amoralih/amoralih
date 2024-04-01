@@ -1,4 +1,4 @@
-####  Olá, eu sou a Amora!
+##  Olá, eu sou a Amora!
 
 • 📚 Bacharel em Jornalismo e Engenharia de Software<br>
 • 💻 QA Engineer na [Pagar.me](https://pagar.me)<br>
