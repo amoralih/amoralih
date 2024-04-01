@@ -1,7 +1,7 @@
 ###  Olá, eu sou a Amora!
 
 • 📚 Bacharel em Jornalismo e Engenharia de Software<br>
-• 💻 QA Engineer na 
+• 💻 QA Engineer na [Pagar.me](https://pagar.me)
 
 ![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
 
