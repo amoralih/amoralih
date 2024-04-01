@@ -1,5 +1,6 @@
-![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
 ###  Olá, eu sou a Amora!
+
+![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
 
 
 <!--
