@@ -1,4 +1,4 @@
-![Imagem do Kirby, um dos mascostes da nintendo](https://imagizer.imageshack.com/img922/8391/oba25D.png)
+![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
 ###  Olá, eu sou a Amora!
 
 
