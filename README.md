@@ -1,4 +1,5 @@
-### ![Imagem do Kirby, um dos mascostes da nintendo](https://imagizer.imageshack.com/img924/1553/DUGebW.png) Olá, eu sou a Amora!
+###  Olá, eu sou a Amora! 
+![Imagem do Kirby, um dos mascostes da nintendo](https://imagizer.imageshack.com/img924/1553/DUGebW.png)
 
 <!--
 **amoralih/amoralih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
