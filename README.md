@@ -1,7 +1,8 @@
 ###  Olá, eu sou a Amora!
 
 • 📚 Bacharel em Jornalismo e Engenharia de Software<br>
-• 💻 QA Engineer na [Pagar.me](https://pagar.me)
+• 💻 QA Engineer na [Pagar.me](https://pagar.me)<br>
+• 🎙 Criadora de conteúdo na [Twitch](http://www.twitch.tv/amoralih)<br>
 
 ![Uma divisória com uma flor rosa no centro](https://imagizer.imageshack.com/img924/2302/2iXiJg.png)
 
