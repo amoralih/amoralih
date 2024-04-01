@@ -1,4 +1,4 @@
-### Hi there 👋
+### ![Imagem do Kirby, um dos mascostes da nintendo](https://imageshack.com/i/poDUGebWp) Olá, eu sou a Amora!
 
 <!--
 **amoralih/amoralih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Imagem do Kirby, um dos mascotes da nintendo](https://dinopixel.com/preload/0422/kirby.png)
+
