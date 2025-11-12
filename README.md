@@ -3,7 +3,7 @@
 • 📚 Bacharel em Jornalismo e Engenharia de Software<br>
 • 💻 QA Engineer na [Pagar.me](https://pagar.me)<br>
 • 🎙 Criadora de conteúdo na [Twitch](http://www.twitch.tv/amoralih)<br>
-• 👩🏻‍💻 Entusiasta do desenvolvimento Front-end e Mobile<b><p><br>
+• 👩🏻‍💻 Entusiasta de IA e dados.<b><p><br>
 
 ### ⚔️ Tech Skills
 
